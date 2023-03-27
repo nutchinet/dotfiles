@@ -1,0 +1,15 @@
+[user]
+    email = tsuoihito@outlook.jp
+    name = tsuoihito
+    signingKey = 97F7DF682007AC84
+[init]
+    defaultBranch = main
+[commit]
+    gpgSign = true
+[core]
+    autocrlf = false
+    editor = vim
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
